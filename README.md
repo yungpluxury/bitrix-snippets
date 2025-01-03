@@ -1,2 +1,1 @@
-# bitrix-snippets
-Bitrix24 snippets
+# Bitrix24 snippets
